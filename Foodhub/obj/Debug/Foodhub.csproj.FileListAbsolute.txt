@@ -1,0 +1,9 @@
+G:\pycharm-met\Aniinfoway 2017\Project 2022\Project\Modifiedfoodhub\Foodhub\Foodhub\bin\Foodhub.dll
+G:\pycharm-met\Aniinfoway 2017\Project 2022\Project\Modifiedfoodhub\Foodhub\Foodhub\bin\Foodhub.pdb
+G:\pycharm-met\Aniinfoway 2017\Project 2022\Project\Modifiedfoodhub\Foodhub\Foodhub\obj\Debug\Foodhub.dll
+G:\pycharm-met\Aniinfoway 2017\Project 2022\Project\Modifiedfoodhub\Foodhub\Foodhub\obj\Debug\Foodhub.pdb
+F:\Review\Foodhub\Foodhub\bin\Foodhub.dll
+F:\Review\Foodhub\Foodhub\bin\Foodhub.pdb
+F:\Review\Foodhub\Foodhub\obj\Debug\Foodhub.dll
+F:\Review\Foodhub\Foodhub\obj\Debug\Foodhub.pdb
+F:\Review\Foodhub\Foodhub\obj\Debug\Foodhub.csprojResolveAssemblyReference.cache
